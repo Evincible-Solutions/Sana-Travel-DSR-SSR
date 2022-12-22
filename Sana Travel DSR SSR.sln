@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1972
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "Sana Travel DSR SSR", "Sana Travel DSR SSR\Sana Travel DSR SSR.rptproj", "{74138E13-3529-4077-AFBD-26325C36E959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{74138E13-3529-4077-AFBD-26325C36E959}.Debug|Default.ActiveCfg = Debug
+		{74138E13-3529-4077-AFBD-26325C36E959}.Debug|Default.Build.0 = Debug
+		{74138E13-3529-4077-AFBD-26325C36E959}.Debug|Default.Deploy.0 = Debug
+		{74138E13-3529-4077-AFBD-26325C36E959}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{74138E13-3529-4077-AFBD-26325C36E959}.DebugLocal|Default.Build.0 = DebugLocal
+		{74138E13-3529-4077-AFBD-26325C36E959}.Release|Default.ActiveCfg = Release
+		{74138E13-3529-4077-AFBD-26325C36E959}.Release|Default.Build.0 = Release
+		{74138E13-3529-4077-AFBD-26325C36E959}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6EA20515-9E0A-4188-83EE-38306FD29BFD}
+	EndGlobalSection
+EndGlobal
