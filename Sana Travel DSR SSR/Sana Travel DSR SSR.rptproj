@@ -50,6 +50,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Report Include="Report1-Amadeus.rdl" />
+    <Report Include="Report1.rdl" />
     <Report Include="Report2-NonAmadeus.rdl" />
     <Report Include="Report3-Non-AIR Sales.rdl" />
   </ItemGroup>
